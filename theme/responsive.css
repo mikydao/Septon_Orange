@@ -261,6 +261,7 @@ div.menu-block {
 }
 .headerbar{
   background-size: 100% 85%;
+  height: 80px;
 }
 
 /* Notifications list

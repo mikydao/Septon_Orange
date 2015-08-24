@@ -285,6 +285,9 @@ li.row {
   background-image: -webkit-linear-gradient(top, #EBB000, #FFCC33);
   background-image: linear-gradient(to bottom, #EBB000, #FFCC33)
 }
+dl.details dd {
+    color: #aed5ba;
+}
 
 /* Top-bar (custom)
 --------------------------------------------- */
@@ -310,7 +313,7 @@ li.row {
 }
 
 #top-bar .linklist > li {
-	margin: 0;
+	margin-top: 40px;
 	padding: 0 15px;
 	font-size: inherit;
 	line-height: inherit;
@@ -334,7 +337,7 @@ li.row {
 #top-bar li.responsive-menu {
 	border: none !important;
 	line-height: 20px;
-	margin: 5px;
+	margin-top: 45px;
 	padding: 3px;
 }
 
@@ -427,7 +430,7 @@ li.reported:hover {
     color: #ffffff;
 }
 #search-box a:hover, .navbg a:hover, .forumbg .header a:hover, .forabg .header a:hover, th a:hover, .forobg a:hover {
-    color: #000;
+    color: #CC6600;
 }
 #search-box a:active, .navbg a:active, .forumbg .header a:active, .forabg .header a:active, th a:active, .forobg a:active {
     color: #c8e6ff;
