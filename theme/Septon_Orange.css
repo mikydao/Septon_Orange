@@ -903,7 +903,7 @@ fieldset.polls dd div {
 
 .pollbar1 {
      background-color: transparent;
-     background-image: url("./styles/BlueSuavity/theme/images/bg_poll1.gif");
+     background-image: url("./images/bg_poll1.gif");
      background-repeat: repeat-x ! important;
      border-left-color: #000000;
      border-right-color: #000000;
@@ -915,7 +915,7 @@ fieldset.polls dd div {
 
 .pollbar2 {
      background-color: transparent;
-     background-image: url("./styles/BlueSuavity/theme/images/bg_poll2.gif");
+     background-image: url("./images/bg_poll2.gif");
      background-repeat: repeat-x ! important;
      border-left-color: #000000;
      border-right-color: #000000;
@@ -927,7 +927,7 @@ fieldset.polls dd div {
 
 .pollbar3 {
      background-color: transparent;
-     background-image: url("./styles/BlueSuavity/theme/images/bg_poll3.gif");
+     background-image: url("./images/bg_poll3.gif");
      background-repeat: repeat-x ! important;
      border-left-color: #000000;
      border-right-color: #000000;
@@ -939,7 +939,7 @@ fieldset.polls dd div {
 
 .pollbar4 {
      background-color: transparent;
-     background-image: url("./styles/BlueSuavity/theme/images/bg_poll4.gif");
+     background-image: url("./images/bg_poll4.gif");
      background-repeat: repeat-x ! important;
      border-left-color: #000000;
      border-right-color: #000000;
@@ -951,7 +951,7 @@ fieldset.polls dd div {
 
 .pollbar5 {
      background-color: transparent;
-     background-image: url("./styles/BlueSuavity/theme/images/bg_poll5.gif");
+     background-image: url("./images/bg_poll5.gif");
      background-repeat: repeat-x ! important;
      border-left-color: #000000;
      border-right-color: #000000;
