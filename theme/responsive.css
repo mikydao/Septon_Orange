@@ -83,7 +83,7 @@ li.row, .title-bottons {
 	display: none;
 }
 
-div.menu-block{
+div.menu-block {
   width: 99% !important;
 }
 
@@ -100,11 +100,11 @@ div.menu-row-first, div.menu-row, div.menu-row-last{
 
 @media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
 
-#site-description{
+#site-description {
   display: none;
 }
 
-.wrap-headerbar{
+.wrap-headerbar {
  height: 70px;
 }
 
@@ -583,6 +583,10 @@ fieldset.polls dd.resultbar, fieldset.polls dd.poll_option_percent {
     margin-top: 42px;
     position: relative;
     z-index: 9;
+}
+
+.postprofile .has-avatar .avatar-container, .postprofile .no-avatar .avatar-container{
+  float: left;
 }
 
 .online {
